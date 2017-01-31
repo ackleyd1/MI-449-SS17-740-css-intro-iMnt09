@@ -41,9 +41,8 @@ header {
  }
 
 hr {
-  color: #FFA500;
-  /*background-color: #FFA500;*/
-  height: 1.5px;
+  color: #D19A61;
+  background-color: #D19A61;
   border-style: solid;
 }
 
